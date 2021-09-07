@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src=https://www.linkpicture.com/q/images(1).jpeg>
+  <img src=https://www.linkpicture.com/q/cat.jpeg>
 
 ## 📢 Guide
 
